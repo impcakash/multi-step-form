@@ -1,0 +1,254 @@
+@media (max-width: 375px) {
+    body {
+        /* background-color: whitesmoke; */
+        /* background-color: antiquewhite; */
+    }
+
+    .mainBody {
+        width: 60%;
+        height: 530px;
+        background-color: white;
+        margin: 6% 20%;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .left {
+        display: none;
+    }
+
+    .right {
+        width: 65%;
+        height: 505px;
+        /* border: 1px solid navy; */
+        margin: 1%;
+        border-radius: 5px;
+    }
+
+    .rightBody {
+        width: 75%;
+        height: 420px;
+        /* border: 1px solid red; */
+        margin: 8% 15% 5% 15%;
+    }
+
+    .left-all {
+        display: flex;
+        flex-direction: row;
+        /* border: 1px solid yellow; */
+        width: 70%;
+        margin: 12% 10%;
+    }
+
+    .left-all-1 {
+        display: flex;
+        flex-direction: row;
+        /* border: 1px solid yellow; */
+        width: 70%;
+        margin: 20% 10% 12% 10%;
+    }
+
+    .left-number {
+        width: 28px;
+        height: 28px;
+        /* background-color: white; */
+        border-radius: 50%;
+        border: 2px solid whitesmoke;
+        color: whitesmoke;
+        text-align: center;
+    }
+
+    .left-number-1 {
+        width: 28px;
+        height: 28px;
+        background-color: white;
+        border-radius: 50%;
+        border: 2px solid whitesmoke;
+        color: black;
+        text-align: center;
+    }
+
+
+    .left-details {
+        margin-left: 10%;
+    }
+
+    .left-step {
+        font-size: 11px;
+        color: rgba(245, 245, 245, 0.772);
+    }
+
+    .left-task {
+        font-size: 13px;
+        font-weight: 500;
+        color: white;
+    }
+
+    .right-tag {
+        font-size: 28px;
+        font-weight: 700;
+    }
+
+    .form-div {
+        margin-top: 5%;
+    }
+
+    input {
+        width: 98%;
+        height: 34px;
+        /* border-radius: 1%; */
+        /* border-color: rgb(48, 44, 44); */
+    }
+
+    .form-label {
+        font-size: 12px;
+    }
+
+    .div-btn {
+        /* border: 2px solid red; */
+    }
+
+    .div-btn-in {
+        margin-left: 10%;
+        margin-top: 16%;
+    }
+
+    button {
+        width: 110px;
+        padding: 10px;
+        background-color: rgba(3, 3, 87, 0.927);
+        color: white;
+        border-radius: 5px;
+    }
+}
+
+@media (min-width: 376px) {
+    body {
+        /* background-color: whitesmoke; */
+        /* background-color: antiquewhite; */
+    }
+
+    .mainBody {
+        width: 60%;
+        height: 530px;
+        background-color: white;
+        margin: 6% 20%;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .left {
+        width: 27%;
+        height: 505px;
+        /* border: 1px solid red;s */
+        background-color: rgba(79, 79, 234, 0.973);
+        margin: 1%;
+        border-radius: 5px;
+    }
+
+    .right {
+        width: 65%;
+        height: 505px;
+        /* border: 1px solid navy; */
+        margin: 1%;
+        border-radius: 5px;
+    }
+
+    .rightBody {
+        width: 75%;
+        height: 420px;
+        /* border: 1px solid red; */
+        margin: 8% 15% 5% 15%;
+    }
+
+    .left-all {
+        display: flex;
+        flex-direction: row;
+        /* border: 1px solid yellow; */
+        width: 70%;
+        margin: 12% 10%;
+    }
+
+    .left-all-1 {
+        display: flex;
+        flex-direction: row;
+        /* border: 1px solid yellow; */
+        width: 70%;
+        margin: 20% 10% 12% 10%;
+    }
+
+    .left-number {
+        width: 28px;
+        height: 28px;
+        /* background-color: white; */
+        border-radius: 50%;
+        border: 2px solid whitesmoke;
+        color: whitesmoke;
+        text-align: center;
+    }
+
+    .left-number-1 {
+        width: 28px;
+        height: 28px;
+        background-color: white;
+        border-radius: 50%;
+        border: 2px solid whitesmoke;
+        color: black;
+        text-align: center;
+    }
+
+
+    .left-details {
+        margin-left: 10%;
+    }
+
+    .left-step {
+        font-size: 11px;
+        color: rgba(245, 245, 245, 0.772);
+    }
+
+    .left-task {
+        font-size: 13px;
+        font-weight: 500;
+        color: white;
+    }
+
+    .right-tag {
+        font-size: 28px;
+        font-weight: 700;
+    }
+
+    .form-div {
+        margin-top: 5%;
+    }
+
+    input {
+        width: 98%;
+        height: 34px;
+        /* border-radius: 1%; */
+        /* border-color: rgb(48, 44, 44); */
+    }
+
+    .form-label {
+        font-size: 12px;
+    }
+
+    .div-btn {
+        /* border: 2px solid red; */
+    }
+
+    .div-btn-in {
+        margin-left: 75%;
+        margin-top: 16%;
+    }
+
+    button {
+        width: 110px;
+        padding: 10px;
+        background-color: rgba(3, 3, 87, 0.927);
+        color: white;
+        border-radius: 5px;
+    }
+}
